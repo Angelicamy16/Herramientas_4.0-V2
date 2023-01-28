@@ -1,0 +1,22 @@
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-josefin-sans: "Josefin Sans";
+
+  /* font sizes */
+  --font-size-sm: 32px;
+  --font-size-base: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --secondary-homr-2: #232932;
+  --palette-med-blue: #07a9eb;
+  --palette-light-purple: #b8b6f2;
+  --palette-white: #f9f9f9;
+  --home2-primary: #f8f8f8;
+  --palette-light-blue: #87dfff;
+  --palette-black: #4b4b4b;
+
+  /* Paddings */
+  --padding-md: 20px;
+}
